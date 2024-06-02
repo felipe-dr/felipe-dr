@@ -1,9 +1,9 @@
-<h1 align="center">Felipe DR</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="26px" alt="Greetings"> Greetings, I'm Felipe DR</h1>
 
-## 📝 About me
+<p>Full Stack Developer who loves creating responsive and optimized interfaces, as well as implementing secure and scalable APIs.</p>
 
-Full Stack Developer who loves creating responsive and optimized interfaces, as well as implementing secure and scalable APIs.
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=felipe-dr&color=green" alt="Profile views" />
+<br/>
 
 ## ⚙️ Tech stack
 
