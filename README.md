@@ -19,15 +19,15 @@
     <tr>
       <td>
         <br>
-        <img src="https://skillicons.dev/icons?i=next,gatsby,react,angular,graphql,ts,js,tailwind,styledcomponents,bootstrap,sass,css,html&theme=light&perline=4" alt="Front-end skills" />
+        <img src="https://skillicons.dev/icons?i=next,gatsby,react,angular,graphql,ts,js,tailwind,styledcomponents,bootstrap,sass,css,html&theme=light&perline=6" alt="Front-end skills" />
       </td>
       <td>
         <br>
-        <img src="https://skillicons.dev/icons?i=nest,nodejs,prisma,postgres,mongo&theme=light&perline=4" alt="Back-end skills" />
+        <img src="https://skillicons.dev/icons?i=nest,nodejs,prisma,postgres,mysql,mongo&theme=light&perline=6" alt="Back-end skills" />
       </td>
       <td>
         <br>
-        <img src="https://skillicons.dev/icons?i=jest,docker,figma,xd,git,github,gitlab,bitbucket,gulp,vscode&theme=light&perline=4" alt="Tools skills" />
+        <img src="https://skillicons.dev/icons?i=jest,vitest,docker,figma,xd,git,github,gitlab,bitbucket,gulp,vscode&theme=light&perline=6" alt="Tools skills" />
       </td>
     </tr>
   </tbody>
